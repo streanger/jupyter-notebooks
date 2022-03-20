@@ -13,4 +13,5 @@ examples
  
  - `ctr-O` - clear cell output (Help -> Edit Keyboard Shortcuts -> clear cell output -> Ctrl-O)
  
+ - `shift + tab` - function help box
  
