@@ -2,8 +2,12 @@
 
 example of multiple linear regression with randomly generated data
 
-## line plot
+## images
 
-![image](predicts_head.png)
+ - dataframe with predicts
 
-![image](mlr_n_1000.png)
+    ![image](predicts_head.png)
+
+ - line plot (output vs predicts)
+
+    ![image](mlr_n_1000.png)
